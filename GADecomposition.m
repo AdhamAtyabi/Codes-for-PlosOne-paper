@@ -2,7 +2,7 @@
 %  MATLAB Code for                                                  %
 %                                                                   %
 %  GADecomposition experiments using LIBSVM implementation          %
-%  of support vectyor machine as fitness evakuator                  %
+%  of support vectyor machine as fitness evaluator                  %
 %  Version 1.0 - Aug. 2015                                          %
 %                                                                   %
 %  According to:                                                    %

@@ -2,12 +2,12 @@
 %  MATLAB Code for                                                  %
 %                                                                   %
 %  PSODecomposition with Mutation using LIBSVM implementation       %
-%  of support vectyor machine as fitness evakuator                  %
+%  of support vectyor machine as fitness evaluator                  %
 %  Version 1.0 - Aug. 2015                                          %
 %                                                                   %
 %  According to:                                                    %
 %  H.R. Tavakoli, A. Atyabi, Antti Rantanen, Seppo J. Laukka,       %
-%  Samia Nefti-Meziani, & Janne Heikkilä,                           %
+%  Samia Nefti-Meziani, & Janne Heikkilä,                          %
 %  "Predicting the valence of a scene from observers' eye movements"%
 %  PLOS ONE, 2015.                                                  %
 %                                                                   %
